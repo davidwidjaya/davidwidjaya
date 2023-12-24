@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Surabaya City, Indonesia
 * 🖥️  See my portfolio at [this site](http://davidwidjaya.my.id)
 * ✉️  You can contact me at [davidpro71@gmail.com](mailto:davidpro71@gmail.com)
-* 🧠  I'm learning Flutter and React Native
+* 🧠  I'm experienced in React Native, Flutter, ReactJS, NextJS, and Laravel
 * 🤝  I'm open to collaborating on web and app development, share and teach anyone, and open source.
 
 ### Skills
